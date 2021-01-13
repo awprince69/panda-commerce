@@ -5,3 +5,31 @@
     border: 0;
     background-color: white;
 }
+
+.catagories img{
+    width: 100px;
+}
+
+.radius{
+    border-radius: 20px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.button-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.bg-css{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
